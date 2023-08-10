@@ -11,7 +11,7 @@ const Product = (props) => {
     return (
 
         <div className="product">
-
+ 
             <div style={{ paddingRight: "10px" }}>
                 <img src={img} alt="" />
             </div>
